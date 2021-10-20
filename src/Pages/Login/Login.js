@@ -49,7 +49,7 @@ const Login = () => {
 
                 <div className="mt-3 d-md-flex">
                     <button onClick={handleRegistration} className=" btn-sm custom-btn me-3">Register</button>
-                    <Link to="/signin">Already Registerd ?</Link>
+                    <Link className="Already-btn" to="/signin">Already Registerd ?</Link>
                 </div>
             </div>
 

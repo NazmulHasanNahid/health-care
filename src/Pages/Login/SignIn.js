@@ -49,7 +49,7 @@ const SignIn = () => {
 
                 <div className="mt-3">
                     <button onClick={loginInUsingPassword} className=" btn-sm custom-btn me-3 ">Login</button>
-                    <Link to="/login">I have no account</Link>
+                    <Link className="Already-btn" to="/login">I have no account</Link>
                 </div>
             </div>
 

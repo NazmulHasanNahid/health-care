@@ -1,8 +1,21 @@
 .custom-btn{
- background-color: rgb(117, 98, 10);
+ background-color: rgb(63, 53, 10);
+ color: white;
+ border: 0;
+ padding: 10px;
+ border-radius: 10px;
+}
+.Already-btn{
+ text-decoration: none;
+ background-color: rgb(80, 67, 11);
  color: white;
  border: 0;
  padding: 10px;
  border-radius: 10px;
 }
 
+.Already-btn:hover{
+    color: rgb(245, 239, 234);
+    background-color: rgb(194, 82, 63);
+
+}
