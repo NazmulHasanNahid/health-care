@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div>
-            <div className="d-md-flex text-center footer text-white pb-2 pt-2 mt-5">
+            <div className="d-md-flex text-center footer text-white pb-2 pt-2 mt-5 ">
                 {/* ========== footer course link ========== */}
                 <div className="col-md-4 col-12 mt-5 mb-5 ">
                     <h5 className="">Service</h5>

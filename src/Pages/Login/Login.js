@@ -35,7 +35,7 @@ const Login = () => {
 
 
     return (
-        <div className="container w-75">
+        <div className="container m-5 w-75">
             <h2 className="text-secondary mt-3">Please Register</h2>
             <h3 className="text-danger mt-3">{error}</h3>
             <div className="mb-3 text-start mt-3">
