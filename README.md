@@ -7,4 +7,4 @@ We are working for peoples Happiness and care for people health.That why we are 
 
 ## We provide You A instant Healt Care Service
 
-## We make sure your health condition is good and than we relese your  patient
+## We make sure your health condition is good and than we relese your  patients
