@@ -1,0 +1,46 @@
+{
+    "purch": [
+        {
+            "id": 1,
+            "price": "$50",
+            "des": "Consult with the top doctors online over chat or call at just INR 100 from anywhere & get answers to all your medical queries only on Health.",
+            "picture": "https://5.imimg.com/data5/GZ/VX/SL/SELLER-46924163/doctor-consultation-services-500x500.png",
+            "name": "Consultation"
+        },
+        {
+            "id": 2,
+            "price": "$200",
+            "des": "get diabetics and more from specialist doctors",
+            "picture": "https://www.narayanahealth.org/blog/wp-content/uploads/2020/04/shutterstock_1174042573.jpg",
+            "name": "Diabetis patients"
+        },
+        {
+            "id": 3,
+            "price": "$400",
+            "des": "Cancer care , cancer is most dangerous healt dices we provide most careing service for you",
+            "picture": "https://static01.nyt.com/images/2020/04/09/well/doctors-cancer-patient/doctors-cancer-patient-superJumbo.jpg",
+            "name": "Cancer patients"
+        },
+        {
+            "id": 4,
+            "price": "$150",
+            "des": "An X-ray is a quick, painless test that produces images of the structures inside your body — particularly your bones. X-ray beams pass through your body, and they are absorbed in different amounts depending on the density of the material they pass through",
+            "picture": "https://xranm.com/wp-content/uploads/2014/08/doc-holding-xray-2.jpg",
+            "name": "X-Ray"
+        },
+        {
+            "id": 5,
+            "price": "$50",
+            "des": "We are provide medicine for normal fever ",
+            "picture": "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2020/03/bodyTempNormal-marty-033020-770x533-1.jpg",
+            "name": "Normal Fever"
+        },
+        {
+            "id": 6,
+            "price": "$80",
+            "des": "we provide psychologist for solving your mental Health Problem",
+            "picture": "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2021/04/How-to-Become-a-Counseling-Psychologist.jpg",
+            "name": "Menthal Health"
+        }
+    ]
+}

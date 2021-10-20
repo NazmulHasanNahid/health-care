@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "description": "Medicine Specelist",
+        "picture": "https://media.istockphoto.com/photos/doctor-holding-digital-tablet-at-meeting-room-picture-id1189304032?k=20&m=1189304032&s=612x612&w=0&h=ovTNnR0JX2cRZkzMBed9exRO_PamZLlysLDFkXesr4Q=",
+        "name": "Dr. Mahmuda Akter" ,
+        "Email": "Mahmuda045@gmail.com", 
+        "cost": "40" 
+       
+    },
+    {
+        "id": 2,
+        "description": "Covid Specialist",
+        "picture": "https://image.shutterstock.com/image-photo/doctor-medical-mask-white-coat-260nw-1937093308.jpg",
+        "name": "Dr. Abdus Salam",
+        "email": "AbdusSalam23@gmail.com",
+        "cost": "200"
+    },
+    {
+        "id": 3,
+        "description": "Fever Specialist",
+        "picture": "https://www.patientpop.com/wp-content/uploads/national-doctors-day-1.jpg",
+        "name": "Dr. jannat ara ",
+        "email": "jannatara34@gmail.com ",
+        "cost": "40"
+    },
+    {
+        "id": 4,
+        "description": "Psychologist",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsphg1DP_sQKPr_BiSAuxMn2Ld0eVtismPkw&usqp=CAU",
+        "name": "Dr. Emon Sheikh",
+        "email": "emon34@gmail.com",
+        "cost": "150"
+    },
+    {
+        "id": 5,
+        "description": "Cancer Specialist",
+        "picture": "https://media.gettyimages.com/photos/doctor-wearing-eyeglasses-on-white-background-picture-id1139666077?s=612x612",
+        "name": "Dr. Adnan samad",
+        "email": "adnansamad345@gmail.com",
+        "cost": "400"
+    },
+    {
+        "id": 6,
+        "description": "Diabetics specialist",
+        "picture": "https://image.shutterstock.com/image-photo/portrait-young-doctor-hospital-space-260nw-1701569023.jpg",
+        "name": "Dr. Afruja Begum",
+        "email": "afruja456@gmail.com",
+        "cost": "300"
+    },
+    {
+        "id": 7,
+        "description": "Medicine Specialist ",
+        "picture": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
+        "name": "Dr. Abdur Rahim",
+        "email": "rahim345@gmail.com",
+        "cost": "200"
+    },
+    {
+        "id": 8,
+        "description": "Cancer Specialist",
+        "picture": "https://www.cdc.gov/diabetes/images/library/spotlights/Male-doctor-smiling-portrait-close-up-Med-Res-72991363.jpg",
+        "name": "Dr. Adnan",
+        "email": "adnan453@gmail.com",
+        "cost": "500"
+
+    },
+    {
+        "id": 8,
+        "description": "Psychologist",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkiOw5UmQjvaf-PPeqwU4FeXKODKvn006AP2RuOHxgdqXRUVPFu30FEa6EOncBvWDQ-wg&usqp=CAU",
+        "name": "Dr. Rahman",
+        "email": "rahman530@gmail.com",
+        "cost": "150"
+
+    }
+]

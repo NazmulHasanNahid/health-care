@@ -1,0 +1,23 @@
+.link-style{
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    line-height: 70px;
+    font-family: sans-serif;
+    }
+    .link-style:hover{
+        color: rgb(251, 255, 0);
+    }
+    .login{
+        padding: 5px 10px;
+        color: white;
+    }
+    
+    .header{
+        background-color: #72879e !important;
+    }
+    
+
+    

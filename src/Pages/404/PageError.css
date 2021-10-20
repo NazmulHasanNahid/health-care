@@ -1,0 +1,17 @@
+.pageError{
+background-color: rgb(73, 63, 60);
+
+}
+
+.custom-size {
+    font-size: 100px !important;
+}
+.btn-custom{
+    border: 0;
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 10px;
+}
